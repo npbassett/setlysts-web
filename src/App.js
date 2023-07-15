@@ -18,7 +18,7 @@ function App() {
         <p style={{ marginBottom: '0px', fontSize: '20px' }}>
           Privacy policy:
         </p>
-        <p style={{ maxWidth: '600px', fontSize: '16px', textAlign: 'justify', marginBottom: '10px' }}>
+        <p style={{ maxWidth: '600px', fontSize: '16px', textAlign: 'justify', margin: '10px 10px' }}>
           Setlysts uses third-party advertising services provided by Google
           AdMob. AdMob may collect certain information about your device, such
           as your unique device identifier, IP address, and usage information,
