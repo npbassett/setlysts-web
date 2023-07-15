@@ -1,6 +1,5 @@
 import icon from './SetlystsIcon.png';
 import './App.css';
-import EmailLink from './emailLink';
 
 function App() {
   return (
