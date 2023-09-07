@@ -15,21 +15,28 @@ function App() {
           setlystsapp@gmail.com
         </a>
         </p>
+        <p style={{ maxWidth: '600px', fontSize: '16px', textAlign: 'justify', margin: '10px 10px' }}>
+          The data presented in the app (show details, set lists, etc.) is obtained
+          via elgoose.net's API. We'd like to thank the entire elgoose.net team
+          for their work curating the data and for making this information publicly available.
+        </p>
         <p style={{ marginBottom: '0px', fontSize: '20px' }}>
           Privacy policy:
         </p>
         <p style={{ maxWidth: '600px', fontSize: '16px', textAlign: 'justify', margin: '10px 10px' }}>
-          Setlysts uses third-party advertising services provided by Google
-          AdMob. AdMob may collect certain information about your device, such
-          as your unique device identifier, IP address, and usage information,
+          Setlysts uses third-party advertising services provided by Applovin.
+          Applovin may collect certain information about your device, such
+          as your unique device identifier, IP address, and usage information
           to provide you with interest-based ads. These ads are tailored to your
-           interests based on your activity within the App and may be displayed 
-          to you within the App.<br/>
+           interests based on your activity and may be displayed 
+          to you within the App. If you prefer that this information not be collected,
+           please select "ask app not to track" when prompted or turn off tracking
+           in System Settings > Setlysts.<br/>
           <br/>
-          Beyond AdMob, Setlysts does not collect any further user information.
-          Information about the shows you have attended is stored locally on
-          your device and is not transmitted remotely in any way. If you have
-          any questions or concerns please contact the email address above.
+          If you choose to create a friends account, the shows you have attended
+           will be stored in a remote database. If you do NOT create an account,
+           your attended shows will only be stored locally on your device. If you have
+           any questions or concerns please contact the email address above.
         </p>
       </header>
     </div>
